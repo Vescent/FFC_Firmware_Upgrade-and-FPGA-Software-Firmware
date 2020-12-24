@@ -5,7 +5,7 @@ Latest Firmware for Fiber-based Frequency Comb
   
   https://github.com/Vescent/FFC_Firmware_Upgrade_Utility
 ## Instructions
-  Left click on FFC_Firmware_Update_Instructions.docx and then click 'Download' to download the instructions for use.
+  Left click on FFC_Firmware_Update_Instructions.pdf and then click 'Download' to download the instructions for use.
 
   Left click on the upgrade package (FFC_Sx.xx_FLx.xx_LDx.xx.zip) and then click 'Download' to download the firmware package to your hard drive.
   
