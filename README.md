@@ -1,5 +1,6 @@
 # FFC_Firmware_Upgrade and FPGA Software and Firmware
-Latest Firmware for Fiber-based Frequency Comb
+Latest Firmware for Fiber-based Frequency Comb  
+And FPGA Software / Firmware package
 ## Requires 
   ### For Firmware Upgrades:
   Vescent FFC_Firmware_Upgrade_Utility available at:
