@@ -23,5 +23,7 @@ And FPGA Software / Firmware package
   Left click on the FPGA_Software R01.zip file and click 'Download' to download the FPGA package to your hard drive.
 
 
+## Configuration S1.193_FL0.16_LD0.19
+  Change to available current limit in LD firmware
 ## Configuration S1.193_FL0.16_LD0.18
   Initial Release
