@@ -5,7 +5,7 @@ And FPGA Software / Firmware package
   ### For Firmware Upgrades:
   Vescent FFC_Firmware_Upgrade_Utility available at:
   
-  https://github.com/Vescent/FFC_Firmware_Upgrade_Utility
+  https://github.com/Vescent/SLICE-FFC_Firmware_Upgrade_Utility
 
   ### For FPGA Software/Firmware:
   FPGA Software / Firmware requires WinPython which can be found at:
