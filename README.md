@@ -23,6 +23,9 @@ And FPGA Software / Firmware package
   Left click on the FPGA_Software R01.zip file and click 'Download' to download the FPGA package to your hard drive.
 
 
+## Configuration S1.195_FL0.16_LD0.21
+  1. Implements ***IDN?** Serial API command  
+  2. Fixes a random buffer overrun in the Serial API communication
 ## Configuration S1.193_FL0.16_LD0.19
   Change to available current limit in LD firmware
 ## Configuration S1.193_FL0.16_LD0.18
