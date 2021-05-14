@@ -14,7 +14,7 @@ And FPGA Software / Firmware package
   
 ## Instructions
   ### For Firmware Upgrades:
-  Left click on FFC_Firmware_Update_Instructions.pdf and then click 'Download' to download the instructions for use.
+  Left click on SLICE_Firmware_Update_Instructions-V1-10.pdf and then click 'Download' to download the instructions for use.
 
   Left click on the upgrade package (FFC_Sx.xx_FLx.xx_LDx.xx.zip) and then click 'Download' to download the firmware package to your hard drive.
   
